@@ -1,0 +1,24 @@
+{
+  "name": "knex-trick-or-treat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "knex": "knex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwreid/trick-or-treat-knex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwreid/trick-or-treat-knex/issues"
+  },
+  "homepage": "https://github.com/bwreid/trick-or-treat-knex#readme",
+  "dependencies": {
+    "knex": "^0.13.0",
+    "pg": "^7.3.0"
+  }
+}
